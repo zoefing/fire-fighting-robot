@@ -2,7 +2,7 @@
 // Use analog port 3 for Sharp sensor 1
 
 // Global variables
-int Sharp1 = 3; //use analog port 2 for Sharp sensor 1 (left)
+int Sharp1 = 3; //use analog port 3 for Sharp sensor 1 (left)
 int start_sw = 10; //digital port ID, start switch
 int interval = 250; //interval between sensor readings
 
